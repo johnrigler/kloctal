@@ -14,13 +14,15 @@ codes are revealed by using the following table:
 </pre>
 To embed the word 'dog' in two small transactions, I send:
 
-0.00001427  <-- 'd' and 'o'
-0.000017    <-- 'g'
+<p>
+<br>0.00001427  <-- 'd' and 'o'
+<br>0.000017    <-- 'g'
 
-The initialization code is currently ignores, but is:
-
+The initialization code is currently ignored, but is to mean:
+<pre>
 0.00010402
      ^ ^ ^
      | | \------ 2 transactions
      | \-------- look at the last 4 digits
      \---------- method 1 (other methods use sets of hashes as well as kloctal) 
+</pre>
