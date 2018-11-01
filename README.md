@@ -26,3 +26,8 @@ The initialization code is currently ignored, but is to mean:
      | \-------- look at the last 4 digits
      \---------- method 1 (other methods use sets of hashes as well as kloctal) 
 </pre>
+
+Even without any software, it is possible to decipher the meaning of this message from a 
+simple web explorer.  This greatly enhances anyone's ability to engage with this system.  
+
+<a href=https://explorer.zcha.in/accounts/t1bhnasipQLVBE4errZP6HQEAvVpiBfp7e5> Example embedded in code.</a>
